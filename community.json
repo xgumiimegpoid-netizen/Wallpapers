@@ -1,0 +1,20 @@
+[
+  {
+    "id": "com_001",
+    "title": "Hatsune Miku",
+    "author": "Unknown",
+    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/community/hatsune-miku.webp"
+  },
+  {
+    "id": "com_002",
+    "title": "Sillent Hill F",
+    "author": "Unknown",
+    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/community/silent-hill-f.webp"
+  },
+  {
+      "id": "com_003",
+      "title": "Cyberpunk 2077",
+      "author": "Unknown",
+      "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/community/cyberpunk-2077.webp"
+  }
+]
