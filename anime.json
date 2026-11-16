@@ -1,134 +1,152 @@
 [
   {
-    "id": "anime-001",
-    "title": "Anime Cityscape",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/anime-cityscape.webp"
+    "author" : "Unknown",
+    "id" : "anime-001",
+    "title" : "Anime Cityscape",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/anime-cityscape.webp"
   },
   {
-    "id": "anime-002",
-    "title": "Evangelion",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/eva.webp"
+    "author" : "Unknown",
+    "id" : "anime-002",
+    "title" : "Evangelion",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/eva.webp"
   },
   {
-    "id": "anime-003",
-    "title": "Evangelion",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/evangelion.webp"
+    "author" : "Unknown",
+    "id" : "anime-003",
+    "title" : "Evangelion",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/evangelion.webp"
   },
   {
-    "id": "anime-004",
-    "title": "Violet Evergarden",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/violet-evergarden.webp"
+    "author" : "Unknown",
+    "id" : "anime-004",
+    "title" : "Violet Evergarden",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/violet-evergarden.webp"
   },
   {
-    "id": "anime-005",
-    "title": "Violet Evergarden",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/violet-evergarden-2.webp"
+    "author" : "Unknown",
+    "id" : "anime-005",
+    "title" : "Violet Evergarden",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/violet-evergarden-2.webp"
   },
   {
-    "id": "anime-006",
-    "title": "Frieren: Beyond Journey's End",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/frieren.webp"
+    "author" : "Unknown",
+    "id" : "anime-006",
+    "title" : "Frieren: Beyond Journey's End",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/frieren.webp"
   },
   {
-    "id": "anime-007",
-    "title": "Naruto",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/naruto-jiraya.webp"
+    "author" : "Unknown",
+    "id" : "anime-007",
+    "title" : "Naruto",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/naruto-jiraya.webp"
   },
   {
-    "id": "anime-008",
-    "title": "Bocchi the Rock!",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/bocchi-the-rock.webp"
+    "author" : "Unknown",
+    "id" : "anime-008",
+    "title" : "Bocchi the Rock!",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/bocchi-the-rock.webp"
   },
   {
-    "id": "anime-009",
-    "title": "Call of the Night",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/call-of-the-night.webp"
+    "author" : "Unknown",
+    "id" : "anime-009",
+    "title" : "Call of the Night",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/call-of-the-night.webp"
   },
   {
-    "id": "anime-010",
-    "title": "Attack on Titan",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/eren.webp"
+    "author" : "Unknown",
+    "id" : "anime-010",
+    "title" : "Attack on Titan",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/eren.webp"
   },
   {
-    "id": "anime-011",
-    "title": "Attack on Titan",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/attack-on-titan.webp"
+    "author" : "Unknown",
+    "id" : "anime-011",
+    "title" : "Attack on Titan",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/attack-on-titan.webp"
   },
   {
-    "id": "anime-012",
-    "title": "Hunter x Hunter",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/hunter-x-hunter.webp"
+    "author" : "Unknown",
+    "id" : "anime-012",
+    "title" : "Hunter x Hunter",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/hunter-x-hunter.webp"
   },
   {
-    "id": "anime-013",
-    "title": "Soul Eater",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/soul-eater.webp"
+    "author" : "Unknown",
+    "id" : "anime-013",
+    "title" : "Soul Eater",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/soul-eater.webp"
   },
   {
-    "id": "anime-014",
-    "title": "Soul Eater",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/soul-eater-2.webp"
+    "author" : "Unknown",
+    "id" : "anime-014",
+    "title" : "Soul Eater",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/soul-eater-2.webp"
   },
   {
-    "id": "anime-015",
-    "title": "Soul Eater",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/soul-eater-3.webp"
+    "author" : "Unknown",
+    "id" : "anime-015",
+    "title" : "Soul Eater",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/soul-eater-3.webp"
   },
   {
-    "id": "anime-016",
-    "title": "Soul Eater",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/soul-eater-4.webp"
+    "author" : "Unknown",
+    "id" : "anime-016",
+    "title" : "Soul Eater",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/soul-eater-4.webp"
   },
   {
-    "id": "anime-017",
-    "title": "Frieren: Beyond Journey's End",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/frieren-2.webp"
+    "author" : "Unknown",
+    "id" : "anime-017",
+    "title" : "Frieren: Beyond Journey's End",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/frieren-2.webp"
   },
   {
-    "id": "anime-018",
-    "title": "Frieren: Beyond Journey's End",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/frieren-3.webp"
+    "author" : "Unknown",
+    "id" : "anime-018",
+    "title" : "Frieren: Beyond Journey's End",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/frieren-3.webp"
   },
   {
-    "id": "anime-019",
-    "title": "Smoking behind the supermarket with you / Super no Ura de Yani Sū Futari",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/sasaki-yamada-tayama.webp"
+    "author" : "Unknown",
+    "id" : "anime-019",
+    "title" : "Smoking behind the supermarket with you / Super no Ura de Yani Sū Futari",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/sasaki-yamada-tayama.webp"
   },
   {
-    "id": "anime-020",
-    "title": "Shin-chan",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/shin-chan.webp"
+    "author" : "Unknown",
+    "id" : "anime-020",
+    "title" : "Shin-chan",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/shin-chan.webp"
   },
   {
-    "id": "anime-021",
-    "title": "Frieren: Beyond Journey's End",
-    "author": "@Franlu07",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/frieren-franlu07.webp"
+    "author" : "@Franlu07",
+    "id" : "anime-021",
+    "title" : "Frieren: Beyond Journey's End",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/frieren-franlu07.webp"
   },
   {
-    "id": "anime-022",
-    "title": "Maomao | The apotecary diaries",
-    "author": "@Clivenzu",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/maomao.webp"
+    "author" : "@Clivenzu",
+    "id" : "anime-022",
+    "title" : "Maomao | The apotecary diaries",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/maomao.webp"
+  },
+  {
+    "author" : "X",
+    "id" : "anime-983cca36352cadadac465e64aa4181e525cf450d9e2bad1b2c9c0e74793497a3",
+    "title" : "madoka magica",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/983cca36352cadadac465e64aa4181e525cf450d9e2bad1b2c9c0e74793497a3.jpg"
+  },
+  {
+    "author" : "X",
+    "id" : "anime-06cd1b714d0233b437d49d97f2ee88cc765244365a4feef0d6bcd3c9c1c94370",
+    "title" : "madoka magica02",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/06cd1b714d0233b437d49d97f2ee88cc765244365a4feef0d6bcd3c9c1c94370.jpg"
+  },
+  {
+    "author" : "X",
+    "id" : "anime-46e4307aea8ade86829f9117d541a2f9c1d1fee0336dc299d5fc43310f420137",
+    "title" : "madoka magica03",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/anime/46e4307aea8ade86829f9117d541a2f9c1d1fee0336dc299d5fc43310f420137.jpg"
   }
 ]
