@@ -1,86 +1,92 @@
 [
   {
-    "id": "cyber-001",
-    "title": "Cyberpunk Edgerunners",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-edgerunners.webp"
+    "author" : "Unknown",
+    "id" : "cyber-001",
+    "title" : "Cyberpunk Edgerunners",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-edgerunners.webp"
   },
   {
-    "id": "cyber-002",
-    "title": "Cyberpunk Cityscape",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-cityscape.webp"
+    "author" : "Unknown",
+    "id" : "cyber-002",
+    "title" : "Cyberpunk Cityscape",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-cityscape.webp"
   },
   {
-    "id": "cyber-003",
-    "title": "Cyberpunk Awakening",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-awakening.webp"
+    "author" : "Unknown",
+    "id" : "cyber-003",
+    "title" : "Cyberpunk Awakening",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-awakening.webp"
   },
   {
-    "id": "cyber-004",
-    "title": "Cyberpunk Cityscape",
-    "author": "Unknown",
-    "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-2.webp"
+    "author" : "Unknown",
+    "id" : "cyber-004",
+    "title" : "Cyberpunk Cityscape",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-2.webp"
   },
   {
-      "id": "cyber-005",
-      "title": "Cyberpunk Landscape",
-      "author": "Unknown",
-      "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-landscape.webp"
+    "author" : "Unknown",
+    "id" : "cyber-005",
+    "title" : "Cyberpunk Landscape",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-landscape.webp"
   },
   {
-      "id": "cyber-006",
-      "title": "Cyberpunk City",
-      "author": "Unknown",
-      "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-city.webp"
+    "author" : "Unknown",
+    "id" : "cyber-006",
+    "title" : "Cyberpunk City",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-city.webp"
   },
   {
-      "id": "cyber-007",
-      "title": "Cyberpunk Cityscape",
-      "author": "Unknown",
-      "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-pixel-art.webp"
+    "author" : "Unknown",
+    "id" : "cyber-007",
+    "title" : "Cyberpunk Cityscape",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-pixel-art.webp"
   },
   {
-      "id": "cyber-008",
-      "title": "Cyberpunk 2077 city",
-      "author": "Unknown",
-      "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk2077.webp"
+    "author" : "Unknown",
+    "id" : "cyber-008",
+    "title" : "Cyberpunk 2077 city",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk2077.webp"
   },
   {
-      "id": "cyber-009",
-      "title": "Cyberpunk",
-      "author": "Unknown",
-      "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-22.webp"
+    "author" : "Unknown",
+    "id" : "cyber-009",
+    "title" : "Cyberpunk",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-22.webp"
   },
   {
-      "id": "cyber-010",
-      "title": "Cyberpunk Nike Rabbit",
-      "author": "Unknown",
-      "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-nike-rabbit.webp"
+    "author" : "Unknown",
+    "id" : "cyber-010",
+    "title" : "Cyberpunk Nike Rabbit",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-nike-rabbit.webp"
   },
   {
-      "id": "cyber-011",
-      "title": "Cyberpunk Cityscape",
-      "author": "Unknown",
-      "url": "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-city-2.webp"
+    "author" : "Unknown",
+    "id" : "cyber-011",
+    "title" : "Cyberpunk Cityscape",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-city-2.webp"
   },
   {
-   "id":"cyber-012",
-    "title":"Cyberpunk City night",
-    "author":"Unknown",
-    "url":"https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-city-night.webp"
+    "author" : "Unknown",
+    "id" : "cyber-012",
+    "title" : "Cyberpunk City night",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/cyberpunk-city-night.webp"
   },
   {
-    "id":"cyber-013",
-    "title":"City View Room",
-    "author":"Unknown",
-    "url":"https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/City-View-Room.webp"
+    "author" : "Unknown",
+    "id" : "cyber-013",
+    "title" : "City View Room",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/City-View-Room.webp"
   },
   {
-    "id":"cyber-014",
-    "title":"Rebeca Cyberpunk",
-    "author":"simøn",
-    "url":"https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/rebeca-cyberpunk.webp"
+    "author" : "simøn",
+    "id" : "cyber-014",
+    "title" : "Rebeca Cyberpunk",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/rebeca-cyberpunk.webp"
+  },
+  {
+    "author" : "Unknown",
+    "id" : "cyberpunk-9fd54f94236b4d09eafe088e0e073a5e8ba4cf93a2ef432ee19238c6bd02bb2a",
+    "title" : "cyberpunk city012",
+    "url" : "https://cdn.jsdelivr.net/gh/xgumiimegpoid-netizen/Wallpapers@DATA/wallpapers/cyberpunk/9fd54f94236b4d09eafe088e0e073a5e8ba4cf93a2ef432ee19238c6bd02bb2a.webp"
   }
 ]
